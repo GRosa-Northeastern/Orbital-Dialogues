@@ -5,7 +5,7 @@ Name: Gregory Rosa, Ruohan Li
 
 Data set: https://www.nanosats.eu/
 
-YouTube Link: https://youtu.be/OJnRLuBB_ac?si=fR_3A_PIjxNM9Pu9 
+YouTube Link: https://www.youtube.com/watch?si=2EUQb44OcFU04wt2&v=m5X0LyDjqGQ&feature=youtu.be
 
 Data Sheet: https://docs.google.com/spreadsheets/d/1KbpuB2mwTLyBIk5xy37FiUU-Oln7r31xIomze71KpgI/edit?gid=0#gid=0
 
